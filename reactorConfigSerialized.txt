@@ -1,0 +1,33 @@
+{
+  XOffs = {
+    {
+      4,
+      false,
+    },
+    {
+      27,
+      false,
+    },
+    {
+      50,
+      false,
+    },
+    {
+      73,
+      true,
+    },
+    {
+      96,
+      true,
+    },
+  },
+  btnOn = true,
+  minb = 30,
+  rod = 0,
+  graphsToDraw = {
+    [ "Energy Buffer" ] = 27,
+    Temperatures = 50,
+    [ "Control Level" ] = 4,
+  },
+  maxb = 70,
+}
